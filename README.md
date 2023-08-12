@@ -5,5 +5,6 @@ https://www.w3schools.com
 
 This repository is built step by step in th etutorial.
 
-learn vim for the last time!
-windows 11!
+learn vim for the last time!.
+windows 11!.
+It now includes steps for Github.
